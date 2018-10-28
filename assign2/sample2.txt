@@ -1,0 +1,184 @@
+penn-state-alma-mater.txt WRITE 59 0 :IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+penn-state-alma-mater.txt WRITE 253 0 :6666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666
+penn-state-alma-mater.txt WRITE 225 0 :zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+penn-state-alma-mater.txt WRITE 56 0 :XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+penn-state-alma-mater.txt SEEK 0 76 :
+penn-state-alma-mater.txt READ 197 0 :
+penn-state-alma-mater.txt WRITE 183 0 :111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+penn-state-alma-mater.txt SEEK 0 389 :
+penn-state-alma-mater.txt SEEK 0 577 :
+penn-state-alma-mater.txt WRITE 16 0 :vvvvvvvvvvvvvvvv
+penn-state-alma-mater.txt SEEK 0 524 :
+penn-state-alma-mater.txt READ 69 0 :
+penn-state-alma-mater.txt SEEK 0 114 :
+penn-state-alma-mater.txt WRITE 253 0 :lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+penn-state-alma-mater.txt READ 133 0 :
+penn-state-alma-mater.txt SEEK 0 35 :
+penn-state-alma-mater.txt WRITE 209 0 :EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+penn-state-alma-mater.txt SEEK 0 464 :
+penn-state-alma-mater.txt SEEK 0 94 :
+penn-state-alma-mater.txt SEEK 0 495 :
+penn-state-alma-mater.txt WRITE 98 0 :SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+penn-state-alma-mater.txt SEEK 0 474 :
+penn-state-alma-mater.txt WRITE 66 0 :pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+penn-state-alma-mater.txt READ 53 0 :
+penn-state-alma-mater.txt SEEK 0 54 :
+penn-state-alma-mater.txt WRITE 104 0 :QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+penn-state-alma-mater.txt READ 123 0 :
+penn-state-alma-mater.txt WRITE 193 0 :zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+penn-state-alma-mater.txt SEEK 0 365 :
+penn-state-alma-mater.txt READ 228 0 :
+penn-state-alma-mater.txt SEEK 0 469 :
+penn-state-alma-mater.txt WRITE 124 0 :yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+penn-state-alma-mater.txt SEEK 0 385 :
+penn-state-alma-mater.txt SEEK 0 46 :
+penn-state-alma-mater.txt SEEK 0 240 :
+penn-state-alma-mater.txt READ 225 0 :
+penn-state-alma-mater.txt WRITE 128 0 :33333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333
+penn-state-alma-mater.txt SEEK 0 270 :
+penn-state-alma-mater.txt SEEK 0 62 :
+penn-state-alma-mater.txt WRITE 90 0 :zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+penn-state-alma-mater.txt READ 210 0 :
+penn-state-alma-mater.txt SEEK 0 180 :
+penn-state-alma-mater.txt SEEK 0 325 :
+penn-state-alma-mater.txt SEEK 0 9 :
+penn-state-alma-mater.txt SEEK 0 273 :
+penn-state-alma-mater.txt WRITE 163 0 :PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+penn-state-alma-mater.txt WRITE 100 0 :ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+penn-state-alma-mater.txt WRITE 41 0 :OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+penn-state-alma-mater.txt SEEK 0 175 :
+penn-state-alma-mater.txt SEEK 0 25 :
+penn-state-alma-mater.txt READ 176 0 :
+penn-state-alma-mater.txt SEEK 0 269 :
+penn-state-alma-mater.txt READ 133 0 :
+penn-state-alma-mater.txt WRITE 124 0 :eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+penn-state-alma-mater.txt WRITE 67 0 :VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+penn-state-alma-mater.txt SEEK 0 495 :
+penn-state-alma-mater.txt SEEK 0 63 :
+penn-state-alma-mater.txt WRITE 92 0 :ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+penn-state-alma-mater.txt SEEK 0 209 :
+penn-state-alma-mater.txt SEEK 0 271 :
+penn-state-alma-mater.txt READ 62 0 :
+penn-state-alma-mater.txt SEEK 0 570 :
+penn-state-alma-mater.txt SEEK 0 202 :
+penn-state-alma-mater.txt READ 228 0 :
+penn-state-alma-mater.txt READ 52 0 :
+penn-state-alma-mater.txt WRITE 8 0 :MMMMMMMM
+penn-state-alma-mater.txt SEEK 0 193 :
+penn-state-alma-mater.txt SEEK 0 39 :
+penn-state-alma-mater.txt SEEK 0 302 :
+penn-state-alma-mater.txt READ 43 0 :
+penn-state-alma-mater.txt READ 29 0 :
+penn-state-alma-mater.txt READ 47 0 :
+penn-state-alma-mater.txt WRITE 126 0 :QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+penn-state-alma-mater.txt SEEK 0 263 :
+penn-state-alma-mater.txt READ 243 0 :
+penn-state-alma-mater.txt WRITE 87 0 :lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+penn-state-alma-mater.txt SEEK 0 140 :
+penn-state-alma-mater.txt SEEK 0 491 :
+penn-state-alma-mater.txt SEEK 0 584 :
+penn-state-alma-mater.txt SEEK 0 259 :
+penn-state-alma-mater.txt READ 239 0 :
+penn-state-alma-mater.txt SEEK 0 161 :
+penn-state-alma-mater.txt SEEK 0 389 :
+penn-state-alma-mater.txt SEEK 0 17 :
+penn-state-alma-mater.txt SEEK 0 308 :
+penn-state-alma-mater.txt WRITE 34 0 :oooooooooooooooooooooooooooooooooo
+penn-state-alma-mater.txt SEEK 0 396 :
+penn-state-alma-mater.txt READ 155 0 :
+penn-state-alma-mater.txt WRITE 42 0 :FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+penn-state-alma-mater.txt SEEK 0 260 :
+penn-state-alma-mater.txt READ 170 0 :
+penn-state-alma-mater.txt WRITE 100 0 :kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+penn-state-alma-mater.txt READ 63 0 :
+penn-state-alma-mater.txt SEEK 0 572 :
+penn-state-alma-mater.txt WRITE 21 0 :666666666666666666666
+penn-state-alma-mater.txt SEEK 0 304 :
+penn-state-alma-mater.txt WRITE 101 0 :XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+penn-state-alma-mater.txt READ 82 0 :
+penn-state-alma-mater.txt SEEK 0 300 :
+penn-state-alma-mater.txt WRITE 112 0 :gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+penn-state-alma-mater.txt WRITE 181 0 :ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+penn-state-alma-mater.txt SEEK 0 274 :
+penn-state-alma-mater.txt WRITE 27 0 :SSSSSSSSSSSSSSSSSSSSSSSSSSS
+penn-state-alma-mater.txt SEEK 0 544 :
+penn-state-alma-mater.txt READ 49 0 :
+penn-state-alma-mater.txt SEEK 0 116 :
+penn-state-alma-mater.txt WRITEAT 4 529 :y ou
+penn-state-alma-mater.txt WRITEAT 5 562 :ear o
+penn-state-alma-mater.txt WRITEAT 4 453 :oude
+penn-state-alma-mater.txt WRITEAT 11 255 :ear, with t
+penn-state-alma-mater.txt WRITEAT 12 370 :s of fate,*T
+penn-state-alma-mater.txt WRITEAT 6 407 :ld Sta
+penn-state-alma-mater.txt WRITEAT 16 424 :d State, dear ol
+penn-state-alma-mater.txt WRITEAT 3 468 : ac
+penn-state-alma-mater.txt WRITEAT 7 499 : heart 
+penn-state-alma-mater.txt WRITEAT 3 306 :ftl
+penn-state-alma-mater.txt WRITEAT 1 277 :t
+penn-state-alma-mater.txt WRITEAT 1 325 :o
+penn-state-alma-mater.txt WRITEAT 9 79 : her foun
+penn-state-alma-mater.txt WRITEAT 2 544 : s
+penn-state-alma-mater.txt WRITEAT 3 195 :alt
+penn-state-alma-mater.txt WRITEAT 12 294 : thee. **(So
+penn-state-alma-mater.txt WRITEAT 14 278 :h thee, all wi
+penn-state-alma-mater.txt WRITEAT 2 69 :St
+penn-state-alma-mater.txt WRITEAT 3 340 :'s 
+penn-state-alma-mater.txt WRITEAT 8 122 :ure that
+penn-state-alma-mater.txt WRITEAT 14 356 :ss in the hand
+penn-state-alma-mater.txt WRITEAT 7 400 : dear o
+penn-state-alma-mater.txt WRITEAT 1 100 :a
+penn-state-alma-mater.txt WRITEAT 14 224 :ight and free,
+penn-state-alma-mater.txt WRITEAT 8 198 :y,*Sing 
+penn-state-alma-mater.txt WRITEAT 13 182 : love and loy
+penn-state-alma-mater.txt WRITEAT 3 97 :ng 
+penn-state-alma-mater.txt WRITEAT 2 292 :th
+penn-state-alma-mater.txt WRITEAT 16 309 :y) **When we sto
+penn-state-alma-mater.txt WRITEAT 8 471 :t of our
+penn-state-alma-mater.txt WRITEAT 11 533 :r lives but
+penn-state-alma-mater.txt WRITEAT 13 516 : thy name,*Ma
+penn-state-alma-mater.txt WRITEAT 9 154 :, raise t
+penn-state-alma-mater.txt WRITEAT 8 416 :*Dear ol
+penn-state-alma-mater.txt WRITEAT 1 339 :d
+penn-state-alma-mater.txt WRITEAT 5 136 :it,*R
+penn-state-alma-mater.txt WRITEAT 16 53 :he glory of old 
+penn-state-alma-mater.txt WRITEAT 5 177 :g our
+penn-state-alma-mater.txt WRITEAT 10 552 :hy fame,*D
+penn-state-alma-mater.txt WRITEAT 5 163 :he so
+penn-state-alma-mater.txt WRITEAT 13 141 :aise the song
+penn-state-alma-mater.txt WRITEAT 8 71 :ate,*For
+penn-state-alma-mater.txt WRITEAT 4 116 :he f
+penn-state-alma-mater.txt WRITEAT 8 15 :Alma Mat
+penn-state-alma-mater.txt WRITEAT 7 270 :*All wi
+penn-state-alma-mater.txt WRITEAT 1 551 :t
+penn-state-alma-mater.txt WRITEAT 5 483 :ing s
+penn-state-alma-mater.txt WRITEAT 11 440 :d State. **
+penn-state-alma-mater.txt WRITEAT 4 479 :s br
+penn-state-alma-mater.txt WRITEAT 9 168 :ng. **Sin
+penn-state-alma-mater.txt WRITEAT 6 130 : we wa
+penn-state-alma-mater.txt WRITEAT 10 582 :old State.
+penn-state-alma-mater.txt WRITEAT 4 266 :hee,
+penn-state-alma-mater.txt WRITEAT 1 592 : 
+penn-state-alma-mater.txt WRITEAT 13 343 :gate,*Shapele
+penn-state-alma-mater.txt WRITEAT 15 567 :ld State, dear 
+penn-state-alma-mater.txt WRITEAT 2 451 :(L
+penn-state-alma-mater.txt WRITEAT 10 390 :t mold us,
+penn-state-alma-mater.txt WRITEAT 5 546 :well 
+penn-state-alma-mater.txt WRITEAT 13 326 :d at childhoo
+penn-state-alma-mater.txt WRITEAT 8 23 :er*by Fr
+penn-state-alma-mater.txt WRITEAT 11 42 :ttee**For t
+penn-state-alma-mater.txt WRITEAT 3 208 :r h
+penn-state-alma-mater.txt WRITEAT 15 0 :The Penn State 
+penn-state-alma-mater.txt WRITEAT 8 382 :hou dids
+penn-state-alma-mater.txt WRITEAT 3 211 :ope
+penn-state-alma-mater.txt WRITEAT 11 488 :hame*To one
+penn-state-alma-mater.txt WRITEAT 11 31 :ed Lewis Pa
+penn-state-alma-mater.txt WRITEAT 11 244 : O Mother d
+penn-state-alma-mater.txt WRITEAT 15 101 :nd great,*For t
+penn-state-alma-mater.txt WRITEAT 6 238 :*Rest,
+penn-state-alma-mater.txt WRITEAT 10 506 :that loves
+penn-state-alma-mater.txt WRITEAT 9 88 :ders stro
+penn-state-alma-mater.txt WRITEAT 10 214 :s that, br
+penn-state-alma-mater.txt WRITEAT 11 457 :r) **May no
+penn-state-alma-mater.txt WRITEAT 2 120 :ut
+penn-state-alma-mater.txt WRITEAT 2 206 :ou
+penn-state-alma-mater.txt WRITEAT 3 413 :te,

@@ -1,0 +1,1363 @@
+raven.txt WRITE 120 0 :pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+raven.txt WRITE 16 0 :iiiiiiiiiiiiiiii
+raven.txt WRITE 71 0 :ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+raven.txt WRITE 114 0 :QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+raven.txt WRITE 157 0 :3333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333
+raven.txt WRITE 2 0 :ZZ
+raven.txt WRITE 142 0 :JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
+raven.txt WRITE 31 0 :7777777777777777777777777777777
+raven.txt WRITE 99 0 :777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+raven.txt WRITE 185 0 :TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+raven.txt WRITE 189 0 :222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222
+raven.txt WRITE 6 0 :MMMMMM
+raven.txt WRITE 146 0 :wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+raven.txt WRITE 129 0 :vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+raven.txt WRITE 216 0 :gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+raven.txt WRITE 15 0 :666666666666666
+raven.txt WRITE 204 0 :BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+raven.txt WRITE 243 0 :yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+raven.txt WRITE 140 0 :DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+raven.txt WRITE 123 0 :eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+raven.txt WRITE 130 0 :qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+raven.txt WRITE 216 0 :cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+raven.txt WRITE 42 0 :pppppppppppppppppppppppppppppppppppppppppp
+raven.txt WRITE 190 0 :LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+raven.txt WRITE 60 0 :PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+raven.txt WRITE 170 0 :WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+raven.txt WRITE 232 0 :XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+raven.txt WRITE 116 0 :11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+raven.txt WRITE 95 0 :nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+raven.txt WRITE 55 0 :OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+raven.txt WRITE 136 0 :mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+raven.txt WRITE 56 0 :FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+raven.txt WRITE 83 0 :88888888888888888888888888888888888888888888888888888888888888888888888888888888888
+raven.txt WRITE 59 0 :jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+raven.txt WRITE 102 0 :JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
+raven.txt WRITE 126 0 :XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+raven.txt WRITE 169 0 :lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+raven.txt WRITE 28 0 :0000000000000000000000000000
+raven.txt WRITE 63 0 :fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+raven.txt WRITE 43 0 :rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+raven.txt WRITE 237 0 :ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+raven.txt WRITE 235 0 :hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+raven.txt WRITE 187 0 :mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+raven.txt WRITE 122 0 :llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+raven.txt WRITE 56 0 :iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+raven.txt WRITE 26 0 :wwwwwwwwwwwwwwwwwwwwwwwwww
+raven.txt WRITE 114 0 :WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+raven.txt WRITE 169 0 :8888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888
+raven.txt WRITE 90 0 :eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+raven.txt WRITE 63 0 :mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+raven.txt WRITE 33 0 :555555555555555555555555555555555
+raven.txt WRITE 92 0 :GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+raven.txt WRITE 169 0 :PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+raven.txt WRITE 115 0 :ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+raven.txt WRITE 129 0 :mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+raven.txt WRITE 113 0 :kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+raven.txt WRITE 255 0 :HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+raven.txt WRITE 166 0 :rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+raven.txt WRITE 251 0 :PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+raven.txt WRITE 133 0 :9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+raven.txt WRITE 28 0 :ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+raven.txt WRITE 4 0 :HHHH
+raven.txt WRITE 144 0 :NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+raven.txt WRITE 66 0 :nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+raven.txt WRITE 241 0 :aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+raven.txt WRITE 33 0 :BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+raven.txt WRITE 242 0 :33333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333
+raven.txt WRITE 96 0 :PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+raven.txt WRITE 136 0 :NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+raven.txt WRITE 99 0 :JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
+raven.txt WRITE 203 0 :SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+raven.txt WRITE 245 0 :KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+raven.txt WRITE 122 0 :WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+raven.txt WRITE 106 0 :dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+raven.txt WRITE 209 0 :yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+raven.txt WRITE 120 0 :EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+raven.txt WRITE 16 0 :WWWWWWWWWWWWWWWW
+raven.txt WRITE 44 0 :yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+raven.txt WRITE 204 0 :ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+raven.txt WRITE 31 0 :5555555555555555555555555555555
+raven.txt WRITE 86 0 :33333333333333333333333333333333333333333333333333333333333333333333333333333333333333
+raven.txt WRITE 136 0 :YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
+raven.txt WRITE 87 0 :UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+raven.txt WRITE 14 0 :FFFFFFFFFFFFFF
+raven.txt SEEK 0 3061 :
+raven.txt WRITE 110 0 :eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+raven.txt SEEK 0 7499 :
+raven.txt READ 249 0 :
+raven.txt SEEK 0 7850 :
+raven.txt WRITE 82 0 :ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+raven.txt WRITE 192 0 :xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+raven.txt WRITE 195 0 :888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888
+raven.txt SEEK 0 2796 :
+raven.txt WRITE 20 0 :gggggggggggggggggggg
+raven.txt SEEK 0 4615 :
+raven.txt READ 88 0 :
+raven.txt SEEK 0 6488 :
+raven.txt WRITE 71 0 :22222222222222222222222222222222222222222222222222222222222222222222222
+raven.txt READ 11 0 :
+raven.txt SEEK 0 4451 :
+raven.txt SEEK 0 6645 :
+raven.txt WRITE 58 0 :qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+raven.txt WRITE 6 0 :yyyyyy
+raven.txt WRITE 144 0 :LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+raven.txt READ 198 0 :
+raven.txt SEEK 0 22 :
+raven.txt SEEK 0 3490 :
+raven.txt WRITE 146 0 :CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+raven.txt WRITE 157 0 :7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+raven.txt READ 1 0 :
+raven.txt READ 16 0 :
+raven.txt WRITE 53 0 :PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+raven.txt WRITE 39 0 :eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+raven.txt READ 62 0 :
+raven.txt SEEK 0 7065 :
+raven.txt SEEK 0 3767 :
+raven.txt SEEK 0 8314 :
+raven.txt READ 124 0 :
+raven.txt SEEK 0 9433 :
+raven.txt READ 195 0 :
+raven.txt SEEK 0 5137 :
+raven.txt SEEK 0 7627 :
+raven.txt SEEK 0 6545 :
+raven.txt WRITE 254 0 :DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+raven.txt READ 113 0 :
+raven.txt SEEK 0 6034 :
+raven.txt WRITE 205 0 :TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+raven.txt SEEK 0 8 :
+raven.txt READ 150 0 :
+raven.txt READ 186 0 :
+raven.txt WRITE 100 0 :SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+raven.txt SEEK 0 338 :
+raven.txt READ 151 0 :
+raven.txt SEEK 0 280 :
+raven.txt WRITE 194 0 :yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+raven.txt READ 42 0 :
+raven.txt SEEK 0 432 :
+raven.txt SEEK 0 7128 :
+raven.txt WRITE 233 0 :eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+raven.txt WRITE 84 0 :nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+raven.txt READ 21 0 :
+raven.txt READ 201 0 :
+raven.txt SEEK 0 6528 :
+raven.txt WRITE 84 0 :bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+raven.txt SEEK 0 3577 :
+raven.txt SEEK 0 6067 :
+raven.txt READ 49 0 :
+raven.txt SEEK 0 4351 :
+raven.txt READ 138 0 :
+raven.txt WRITE 58 0 :7777777777777777777777777777777777777777777777777777777777
+raven.txt WRITE 187 0 :OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+raven.txt SEEK 0 7868 :
+raven.txt WRITE 28 0 :QQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+raven.txt SEEK 0 7063 :
+raven.txt WRITE 38 0 :BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+raven.txt WRITE 92 0 :88888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888
+raven.txt SEEK 0 7964 :
+raven.txt READ 220 0 :
+raven.txt SEEK 0 7520 :
+raven.txt SEEK 0 3639 :
+raven.txt READ 81 0 :
+raven.txt SEEK 0 6292 :
+raven.txt SEEK 0 2071 :
+raven.txt SEEK 0 1435 :
+raven.txt WRITE 216 0 :666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666
+raven.txt SEEK 0 2763 :
+raven.txt SEEK 0 8010 :
+raven.txt WRITE 239 0 :lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+raven.txt WRITE 113 0 :NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+raven.txt WRITE 140 0 :88888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888
+raven.txt SEEK 0 9551 :
+raven.txt SEEK 0 3950 :
+raven.txt SEEK 0 879 :
+raven.txt READ 225 0 :
+raven.txt READ 1 0 :
+raven.txt WRITE 2 0 :EE
+raven.txt WRITE 228 0 :qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+raven.txt WRITE 171 0 :YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
+raven.txt SEEK 0 8922 :
+raven.txt SEEK 0 6715 :
+raven.txt READ 155 0 :
+raven.txt WRITE 65 0 :IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+raven.txt WRITE 205 0 :kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+raven.txt READ 111 0 :
+raven.txt WRITE 129 0 :GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+raven.txt WRITE 66 0 :ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+raven.txt WRITEAT 4 463 :r,*A
+raven.txt WRITEAT 4 9665 :rd o
+raven.txt WRITEAT 4 2740 :e.**
+raven.txt WRITEAT 2 1682 :re
+raven.txt WRITEAT 12 5995 :we both ador
+raven.txt WRITEAT 15 2647 :my chamber door
+raven.txt WRITEAT 4 727 :    
+raven.txt WRITEAT 9 7316 :h separat
+raven.txt WRITEAT 15 6705 :itting, still i
+raven.txt WRITEAT 10 2499 :ade he; no
+raven.txt WRITEAT 6 7415 :the mo
+raven.txt WRITEAT 9 5377 : and forg
+raven.txt WRITEAT 2 7575 :*[
+raven.txt WRITEAT 5 5103 :enser
+raven.txt WRITEAT 13 8233 :ery explore.'
+raven.txt WRITEAT 9 1058 :eating en
+raven.txt WRITEAT 9 4597 : bird of 
+raven.txt WRITEAT 3 5490 :" s
+raven.txt WRITEAT 4 9065 :She_
+raven.txt WRITEAT 2 5101 : d
+raven.txt WRITEAT 11 2995 :hore,--*Tel
+raven.txt WRITEAT 5 7164 :   Ov
+raven.txt WRITEAT 12 9669 :r fiend!' I 
+raven.txt WRITEAT 7 9959 :tration
+raven.txt WRITEAT 3 3295 :t n
+raven.txt WRITEAT 15 4624 :               
+raven.txt WRITEAT 6 1237 :said I
+raven.txt WRITEAT 5 82 : and 
+raven.txt WRITEAT 6 9938 :-never
+raven.txt WRITEAT 7 6731 :still i
+raven.txt WRITEAT 10 3157 : this unga
+raven.txt WRITEAT 8 3813 :, as my 
+raven.txt WRITEAT 16 5075 :n, methought, th
+raven.txt WRITEAT 8 2260 :ore;--* 
+raven.txt WRITEAT 5 2002 :withi
+raven.txt WRITEAT 9 2793 :smiling,*
+raven.txt WRITEAT 3 6348 :"Ge
+raven.txt WRITEAT 7 5246 :e--by t
+raven.txt WRITEAT 14 3130 :vermore."**Muc
+raven.txt WRITEAT 7 8972 :velvet 
+raven.txt WRITEAT 3 8995 :th 
+raven.txt WRITEAT 9 2471 :e.*Not th
+raven.txt WRITEAT 12 6087 :sp a sainted
+raven.txt WRITEAT 4 7437 :had 
+raven.txt WRITEAT 5 9693 :start
+raven.txt WRITEAT 4 4611 :    
+raven.txt WRITEAT 7 8020 :*    "D
+raven.txt WRITEAT 7 744 :       
+raven.txt WRITEAT 3 5072 :The
+raven.txt WRITEAT 8 6072 :n,*It sh
+raven.txt WRITEAT 4 9866 :ting
+raven.txt WRITEAT 3 7762 :vis
+raven.txt WRITEAT 15 67 : pondered, weak
+raven.txt WRITEAT 6 9921 : Shall
+raven.txt WRITEAT 7 265 :r door.
+raven.txt WRITEAT 1 2331 :h
+raven.txt WRITEAT 1 1839 : 
+raven.txt WRITEAT 13 1806 :word, "Lenore
+raven.txt WRITEAT 16 4660 :n croaking "Neve
+raven.txt WRITEAT 8 5109 : perfume
+raven.txt WRITEAT 1 854 :d
+raven.txt WRITEAT 12 4524 :inous bird o
+raven.txt WRITEAT 5 9056 :     
+raven.txt WRITEAT 1 3570 :p
+raven.txt WRITEAT 5 7186 :and c
+raven.txt WRITEAT 16 6176 :e angels name Le
+raven.txt WRITEAT 6 8573 :rched,
+raven.txt WRITEAT 13 197 : came a tappi
+raven.txt WRITEAT 6 150 :*While
+raven.txt WRITEAT 6 9132 : I cri
+raven.txt WRITEAT 4 6641 :    
+raven.txt WRITEAT 7 7207 : forgot
+raven.txt WRITEAT 1 7650 : 
+raven.txt WRITEAT 1 3194 : 
+raven.txt WRITEAT 1 7127 :,
+raven.txt WRITEAT 15 8109 :*    "'Surely,'
+raven.txt WRITEAT 16 6467 :ath spoken!*Leav
+raven.txt WRITEAT 15 1956 :.**Back into th
+raven.txt WRITEAT 3 3810 : me
+raven.txt WRITEAT 5 6459 :y sou
+raven.txt WRITEAT 5 4644 :     
+raven.txt WRITEAT 9 4712 :ing, but 
+raven.txt WRITEAT 11 7853 :at my chamb
+raven.txt WRITEAT 14 9901 :              
+raven.txt WRITEAT 9 7599 :or the ra
+raven.txt WRITEAT 4 6530 :my d
+raven.txt WRITEAT 6 272 :*"'T i
+raven.txt WRITEAT 7 2416 :here st
+raven.txt WRITEAT 8 4676 :rmore."*
+raven.txt WRITEAT 16 2061 :ouder than befor
+raven.txt WRITEAT 6 2007 :n me b
+raven.txt WRITEAT 13 8270 : "Open here I
+raven.txt WRITEAT 9 2874 :rest be s
+raven.txt WRITEAT 15 8814 :ve flown before
+raven.txt WRITEAT 2 4506 :nk
+raven.txt WRITEAT 3 9409 :n G
+raven.txt WRITEAT 10 3081 :          
+raven.txt WRITEAT 8 1831 :ispered,
+raven.txt WRITEAT 1 6049 :i
+raven.txt WRITEAT 15 434 :r it was in the
+raven.txt WRITEAT 2 2690 :  
+raven.txt WRITEAT 12 6544 :thy beak fro
+raven.txt WRITEAT 10 7610 : and radia
+raven.txt WRITEAT 4 9717 :on]*
+raven.txt WRITEAT 8 1863 :ck the w
+raven.txt WRITEAT 3 1264 :ur 
+raven.txt WRITEAT 3 8979 :vio
+raven.txt WRITEAT 12 1819 :!"*This I wh
+raven.txt WRITEAT 1 3202 :n
+raven.txt WRITEAT 8 7400 :gerly I 
+raven.txt WRITEAT 11 1844 :an echo mur
+raven.txt WRITEAT 8 580 :to borro
+raven.txt WRITEAT 5 7351 :ghost
+raven.txt WRITEAT 15 96 :er many a quain
+raven.txt WRITEAT 8 2715 : and sat
+raven.txt WRITEAT 4 3639 :ur.*
+raven.txt WRITEAT 7 2237 :t and t
+raven.txt WRITEAT 10 9797 :[Illustrat
+raven.txt WRITEAT 13 4248 :             
+raven.txt WRITEAT 1 3919 :.
+raven.txt WRITEAT 3 9838 :t t
+raven.txt WRITEAT 1 5290 :-
+raven.txt WRITEAT 2 3293 :ha
+raven.txt WRITEAT 1 743 : 
+raven.txt WRITEAT 13 751 :      Nameles
+raven.txt WRITEAT 1 2423 :e
+raven.txt WRITEAT 4 4813 :d mo
+raven.txt WRITEAT 7 385 :his, an
+raven.txt WRITEAT 4 2338 :re!"
+raven.txt WRITEAT 1 9145 :y
+raven.txt WRITEAT 2 8389 :le
+raven.txt WRITEAT 7 1554 :re.**De
+raven.txt WRITEAT 5 9228 :penth
+raven.txt WRITEAT 13 631 :for the lost 
+raven.txt WRITEAT 5 820 :ing o
+raven.txt WRITEAT 8 5933 :rd or de
+raven.txt WRITEAT 8 5117 :d from a
+raven.txt WRITEAT 10 9008 :ght gloati
+raven.txt WRITEAT 16 4751 :fowl whose fiery
+raven.txt WRITEAT 16 5570 :nt, or whether t
+raven.txt WRITEAT 7 5727 :implore
+raven.txt WRITEAT 10 5560 :Tempter se
+raven.txt WRITEAT 5 7734 :strat
+raven.txt WRITEAT 15 6907 :throws his shad
+raven.txt WRITEAT 11 3333 :lessed with
+raven.txt WRITEAT 4 1429 :as s
+raven.txt WRITEAT 3 855 : me
+raven.txt WRITEAT 6 9170 :these 
+raven.txt WRITEAT 11 553 :rrow:--vain
+raven.txt WRITEAT 8 6682 :And the 
+raven.txt WRITEAT 7 7257 :inctly 
+raven.txt WRITEAT 9 5424 :         
+raven.txt WRITEAT 3 9577 :m t
+raven.txt WRITEAT 2 8283 : f
+raven.txt WRITEAT 14 1175 :ntly my soul g
+raven.txt WRITEAT 12 7722 :re."***[Illu
+raven.txt WRITEAT 5 2642 :bove 
+raven.txt WRITEAT 4 6127 : Len
+raven.txt WRITEAT 3 5941 :vil
+raven.txt WRITEAT 15 6099 : maiden whom th
+raven.txt WRITEAT 5 4651 :  Mea
+raven.txt WRITEAT 11 8920 :ancy unto f
+raven.txt WRITEAT 2 5505 :g 
+raven.txt WRITEAT 10 3729 :e than mut
+raven.txt WRITEAT 7 3643 :Nothing
+raven.txt WRITEAT 10 424 : I remembe
+raven.txt WRITEAT 6 5046 :ll pre
+raven.txt WRITEAT 1 8848 :]
+raven.txt WRITEAT 14 9212 :--respite and 
+raven.txt WRITEAT 13 6894 :im streaming 
+raven.txt WRITEAT 3 6302 :ing
+raven.txt WRITEAT 16 899 :felt before;*So 
+raven.txt WRITEAT 14 1540 :and nothing mo
+raven.txt WRITEAT 9 1871 :ord, "Len
+raven.txt WRITEAT 8 9734 :hee back
+raven.txt WRITEAT 11 4040 : store,*Cau
+raven.txt WRITEAT 8 6765 :t of Pal
+raven.txt WRITEAT 3 8829 :.'"
+raven.txt WRITEAT 6 9247 :ories 
+raven.txt WRITEAT 2 413 : d
+raven.txt WRITEAT 5 8435 :or st
+raven.txt WRITEAT 8 7591 :**    "F
+raven.txt WRITEAT 7 6486 :y lonel
+raven.txt WRITEAT 14 213 :*As of some on
+raven.txt WRITEAT 14 1730 :he darkness ga
+raven.txt WRITEAT 2 2840 :co
+raven.txt WRITEAT 6 9879 :loor* 
+raven.txt WRITEAT 4 8643 :rom 
+raven.txt WRITEAT 1 2985 : 
+raven.txt WRITEAT 3 8961 :"Bu
+raven.txt WRITEAT 11 1448 :"--here I o
+raven.txt WRITEAT 2 3705 :ed
+raven.txt WRITEAT 10 6611 :          
+raven.txt WRITEAT 4 4164 : bor
+raven.txt WRITEAT 12 2816 :nd stern dec
+raven.txt WRITEAT 9 6378 :t and the
+raven.txt WRITEAT 4 420 :ctly
+raven.txt WRITEAT 5 3598 :if hi
+raven.txt WRITEAT 8 5195 :ed floor
+raven.txt WRITEAT 2 2596 :er
+raven.txt WRITEAT 7 1230 :"Sir," 
+raven.txt WRITEAT 12 3960 :eply so aptl
+raven.txt WRITEAT 5 8784 : will
+raven.txt WRITEAT 14 6282 :ord our sign o
+raven.txt WRITEAT 15 2842 :untenance it wo
+raven.txt WRITEAT 8 9841 :hat shad
+raven.txt WRITEAT 5 6007 :e--*T
+raven.txt WRITEAT 1 8170 :w
+raven.txt WRITEAT 13 8406 :ade he; not a
+raven.txt WRITEAT 1 481 :t
+raven.txt WRITEAT 5 3936 :he st
+raven.txt WRITEAT 13 3626 : he did outpo
+raven.txt WRITEAT 4 9507 :if, 
+raven.txt WRITEAT 16 4946 :t violet lining 
+raven.txt WRITEAT 8 361 :        
+raven.txt WRITEAT 11 8463 :on]***    "
+raven.txt WRITEAT 10 2084 :ely," said
+raven.txt WRITEAT 14 9146 : God hath lent
+raven.txt WRITEAT 13 9586 :els name Leno
+raven.txt WRITEAT 12 9335 :ion]***    .
+raven.txt WRITEAT 10 9160 : thee--by 
+raven.txt WRITEAT 9 4615 :         
+raven.txt WRITEAT 1 4610 :*
+raven.txt WRITEAT 13 6192 :nore."*      
+raven.txt WRITEAT 12 4494 :o fancy, thi
+raven.txt WRITEAT 12 5493 :aid I, "thin
+raven.txt WRITEAT 3 4382 :ned
+raven.txt WRITEAT 1 8193 :e
+raven.txt WRITEAT 3 5457 :he 
+raven.txt WRITEAT 12 5596 :sed thee her
+raven.txt WRITEAT 14 4284 :ermore.'"**But
+raven.txt WRITEAT 1 3662 :n
+raven.txt WRITEAT 15 0 :THE RAVEN**BY*E
+raven.txt WRITEAT 13 5327 :ies of Lenore
+raven.txt WRITEAT 13 649 :e--*For the r
+raven.txt WRITEAT 13 515 :pon the floor
+raven.txt WRITEAT 16 1703 :silence was unbr
+raven.txt WRITEAT 7 7937 :       
+raven.txt WRITEAT 1 9511 :w
+raven.txt WRITEAT 14 7923 :or;--*        
+raven.txt WRITEAT 7 9500 : laden 
+raven.txt WRITEAT 7 1470 :the doo
+raven.txt WRITEAT 3 4917 :glo
+raven.txt WRITEAT 11 4920 :ated o'er,*
+raven.txt WRITEAT 9 8391 :ast obeis
+raven.txt WRITEAT 14 6205 :              
+raven.txt WRITEAT 8 2323 : and not
+raven.txt WRITEAT 13 7454 :row*    From 
+raven.txt WRITEAT 10 1880 :ore!"*    
+raven.txt WRITEAT 7 9180 :ls he h
+raven.txt WRITEAT 1 9412 :i
+raven.txt WRITEAT 13 1890 :             
+raven.txt WRITEAT 16 9018 :ng o'er*        
+raven.txt WRITEAT 10 4030 : stock and
+raven.txt WRITEAT 6 2607 :erched
+raven.txt WRITEAT 2 2020 :*S
+raven.txt WRITEAT 8 7045 : Shall b
+raven.txt WRITEAT 1 9207 :s
+raven.txt WRITEAT 3 5647 :n t
+raven.txt WRITEAT 3 508 :gho
+raven.txt WRITEAT 13 6960 :that shadow t
+raven.txt WRITEAT 5 6787 : my c
+raven.txt WRITEAT 4 7562 :st L
+raven.txt WRITEAT 9 2221 :be still 
+raven.txt WRITEAT 13 2572 :, perched abo
+raven.txt WRITEAT 16 304 :d, "tapping at m
+raven.txt WRITEAT 10 7632 :om the ang
+raven.txt WRITEAT 10 2363 :he shutter
+raven.txt WRITEAT 11 7874 :**[Illustra
+raven.txt WRITEAT 4 4014 :ters
+raven.txt WRITEAT 6 6645 :      
+raven.txt WRITEAT 16 3214 :its answer littl
+raven.txt WRITEAT 2 5805 :  
+raven.txt WRITEAT 2 8018 :**
+raven.txt WRITEAT 8 3049 : Plutoni
+raven.txt WRITEAT 16 3402 :he sculptured bu
+raven.txt WRITEAT 4 7239 :n]**
+raven.txt WRITEAT 13 7520 :re."***[Illus
+raven.txt WRITEAT 9 7790 :at my cha
+raven.txt WRITEAT 10 1048 :siter entr
+raven.txt WRITEAT 11 4018 : is its onl
+raven.txt WRITEAT 10 6132 :re--*Clasp
+raven.txt WRITEAT 15 2022 :oon again I hea
+raven.txt WRITEAT 16 6012 :ell this soul wi
+raven.txt WRITEAT 6 6568 :rt, an
+raven.txt WRITEAT 4 1316 :ing,
+raven.txt WRITEAT 3 5557 :er 
+raven.txt WRITEAT 1 1656 : 
+raven.txt WRITEAT 1 7399 :a
+raven.txt WRITEAT 7 3171 : fowl t
+raven.txt WRITEAT 1 5203 :.
+raven.txt WRITEAT 7 4361 :ht I wh
+raven.txt WRITEAT 2 2943 : g
+raven.txt WRITEAT 6 1042 :ate vi
+raven.txt WRITEAT 12 617 :orrow--sorro
+raven.txt WRITEAT 10 978 :'T is some
+raven.txt WRITEAT 2 6484 : m
+raven.txt WRITEAT 3 1803 :ed 
+raven.txt WRITEAT 4 2270 :    
+raven.txt WRITEAT 12 3494 :ch name as "
+raven.txt WRITEAT 13 4791 : bosom's core
+raven.txt WRITEAT 2 4217 :ur
+raven.txt WRITEAT 13 5059 : nevermore!**
+raven.txt WRITEAT 7 1744 :ve no t
+raven.txt WRITEAT 14 6305 :, bird or fien
+raven.txt WRITEAT 4 4193 :s Ho
+raven.txt WRITEAT 14 1095 :*             
+raven.txt WRITEAT 7 1035 :*Some l
+raven.txt WRITEAT 3 1409 :oor
+raven.txt WRITEAT 13 7957 :          Dar
+raven.txt WRITEAT 15 4546 :hat this grim, 
+raven.txt WRITEAT 1 7128 : 
+raven.txt WRITEAT 2 9324 :*[
+raven.txt WRITEAT 1 3920 :"
+raven.txt WRITEAT 11 1459 :pened wide 
+raven.txt WRITEAT 10 4536 :f yore--*W
+raven.txt WRITEAT 12 2828 :orum of the 
+raven.txt WRITEAT 16 7335 :ber wrought its 
+raven.txt WRITEAT 11 1296 :e fact is I
+raven.txt WRITEAT 16 3689 : then he flutter
+raven.txt WRITEAT 14 885 :terrors never 
+raven.txt WRITEAT 14 4561 :ungainly, ghas
+raven.txt WRITEAT 14 7111 : midnight drea
+raven.txt WRITEAT 7 5699 :r haunt
+raven.txt WRITEAT 8 43 :midnight
+raven.txt WRITEAT 11 9927 : be lifted-
+raven.txt WRITEAT 4 9208 :pite
+raven.txt WRITEAT 10 8544 :          
+raven.txt WRITEAT 13 9651 :of parting, b
+raven.txt WRITEAT 2 1700 :he
+raven.txt WRITEAT 8 954 :art, I s
+raven.txt WRITEAT 10 5091 :e air grew
+raven.txt WRITEAT 1 858 :-
+raven.txt WRITEAT 9 2952 : ancient 
+raven.txt WRITEAT 9 8760 :-*    On 
+raven.txt WRITEAT 6 9580 :he ang
+raven.txt WRITEAT 14 2802 :By the grave a
+raven.txt WRITEAT 3 3791 :row
+raven.txt WRITEAT 3 9531 :ide
+raven.txt WRITEAT 7 2867 :h thy c
+raven.txt WRITEAT 11 6813 :eyes have a
+raven.txt WRITEAT 6 8164 : windo
+raven.txt WRITEAT 8 801 :sad unce
+raven.txt WRITEAT 3 7800 :ber
+raven.txt WRITEAT 3 988 : vi
+raven.txt WRITEAT 15 2675 :               
+raven.txt WRITEAT 10 5779 : me--tell 
+raven.txt WRITEAT 11 4740 :ing*To the 
+raven.txt WRITEAT 6 7293 :k Dece
+raven.txt WRITEAT 5 973 :ing*"
+raven.txt WRITEAT 8 8095 :llustrat
+raven.txt WRITEAT 5 8049 :ms no
+raven.txt WRITEAT 5 3372 :er do
+raven.txt WRITEAT 9 8579 : and sat,
+raven.txt WRITEAT 14 2771 :ing my sad fan
+raven.txt WRITEAT 1 6704 :l
+raven.txt WRITEAT 1 4029 :y
+raven.txt WRITEAT 8 2168 : thereat
+raven.txt WRITEAT 7 3195 :so plai
+raven.txt WRITEAT 12 4977 :ght gloating
+raven.txt WRITEAT 13 30 :*Once upon a 
+raven.txt WRITEAT 11 8803 :my hopes ha
+raven.txt WRITEAT 1 679 :a
+raven.txt WRITEAT 10 7803 : door--*  
+raven.txt WRITEAT 9 8982 :let linin
+raven.txt WRITEAT 11 4728 :able expres
+raven.txt WRITEAT 14 764 :s here for eve
+raven.txt WRITEAT 7 6435 :s a tok
+raven.txt WRITEAT 15 939 :eating of my he
+raven.txt WRITEAT 7 2316 :he wind
+raven.txt WRITEAT 11 962 :tood repeat
+raven.txt WRITEAT 12 5017 :            
+raven.txt WRITEAT 11 1719 :oken, and t
+raven.txt WRITEAT 8 2045 :ping, so
+raven.txt WRITEAT 12 7841 :ng entrance 
+raven.txt WRITEAT 8 4263 :       O
+raven.txt WRITEAT 1 1007 : 
+raven.txt WRITEAT 12 3841 :ore."*      
+raven.txt WRITEAT 6 4219 :den bo
+raven.txt WRITEAT 15 8946 :tration]***    
+raven.txt WRITEAT 4 6058 : dis
+raven.txt WRITEAT 13 7813 :  Some late v
+raven.txt WRITEAT 10 1672 :dared to d
+raven.txt WRITEAT 4 8489 :bust
+raven.txt WRITEAT 7 7783 :trance 
+raven.txt WRITEAT 15 4100 :ster*Followed f
+raven.txt WRITEAT 5 7325 :e dyi
+raven.txt WRITEAT 1 6754 : 
+raven.txt WRITEAT 12 731 :            
+raven.txt WRITEAT 9 9094 :re!"***[I
+raven.txt WRITEAT 7 662 :are and
+raven.txt WRITEAT 10 778 :rmore.**An
+raven.txt WRITEAT 12 158 : nodded, nea
+raven.txt WRITEAT 2 8993 :wi
+raven.txt WRITEAT 6 2310 :T is t
+raven.txt WRITEAT 8 3506 :Nevermor
+raven.txt WRITEAT 3 6230 :   
+raven.txt WRITEAT 4 4057 :om s
+raven.txt WRITEAT 16 5763 :in Gilead?--tell
+raven.txt WRITEAT 16 6319 :d!" I shrieked, 
+raven.txt WRITEAT 15 3246 :e relevancy bor
+raven.txt WRITEAT 1 1777 :e
+raven.txt WRITEAT 5 415 :istin
+raven.txt WRITEAT 6 1482 :      
+raven.txt WRITEAT 7 1796 :whisper
+raven.txt WRITEAT 7 1488 :       
+raven.txt WRITEAT 16 7191 :urious volume of
+raven.txt WRITEAT 13 1637 :ng, dreaming 
+raven.txt WRITEAT 10 6792 :hamber doo
+raven.txt WRITEAT 13 1943 : nothing more
+raven.txt WRITEAT 5 2724 : and 
+raven.txt WRITEAT 9 4313 :l beguili
+raven.txt WRITEAT 4 5507 :of e
+raven.txt WRITEAT 5 1684 :am be
+raven.txt WRITEAT 7 9815 :   "And
+raven.txt WRITEAT 5 3914 :rmore
+raven.txt WRITEAT 11 4962 :with the la
+raven.txt WRITEAT 13 7944 :             
+raven.txt WRITEAT 11 1008 :entrance at
+raven.txt WRITEAT 7 7916 : the do
+raven.txt WRITEAT 7 4459 : betook
+raven.txt WRITEAT 10 2250 :stery expl
+raven.txt WRITEAT 2 7291 :ea
+raven.txt WRITEAT 13 2403 :flutter,*In t
+raven.txt WRITEAT 15 7053 :e lifted--never
+raven.txt WRITEAT 14 7097 :  "Once upon a
+raven.txt WRITEAT 15 9966 :]***[Illustrati
+raven.txt WRITEAT 6 8131 :, 'sur
+raven.txt WRITEAT 6 8671 :llustr
+raven.txt WRITEAT 12 6594 : off my door
+raven.txt WRITEAT 8 2977 :from the
+raven.txt WRITEAT 3 9545 :sha
+raven.txt WRITEAT 7 9198 :ee*    
+raven.txt WRITEAT 16 6514 : the bust above 
+raven.txt WRITEAT 1 2083 :r
+raven.txt WRITEAT 9 2986 :Nightly s
+raven.txt WRITEAT 2 6041 :en
+raven.txt WRITEAT 8 7697 : Nameles
+raven.txt WRITEAT 16 7029 :                
+raven.txt WRITEAT 11 9786 :shore!'"***
+raven.txt WRITEAT 9 2598 : door--*P
+raven.txt WRITEAT 1 6256 :,
+raven.txt WRITEAT 8 6233 :        
+raven.txt WRITEAT 6 9915 :      
+raven.txt WRITEAT 2 7125 :ry
+raven.txt WRITEAT 7 9355 : me tru
+raven.txt WRITEAT 10 1689 :fore;*But 
+raven.txt WRITEAT 5 3034 : on t
+raven.txt WRITEAT 7 3356 : above 
+raven.txt WRITEAT 16 8177 :ce;*    Let me s
+raven.txt WRITEAT 7 23 :AN POE*
+raven.txt WRITEAT 7 3110 :Quoth t
+raven.txt WRITEAT 14 3794 : _he_ will lea
+raven.txt WRITEAT 16 7533 :tration]***"Sorr
+raven.txt WRITEAT 7 5052 :ss, ah,
+raven.txt WRITEAT 5 1067 :tranc
+raven.txt WRITEAT 7 6534 :oor!*Ta
+raven.txt WRITEAT 4 2233 :omen
+raven.txt WRITEAT 10 4466 : myself to
+raven.txt WRITEAT 15 9267 :*[Illustration]
+raven.txt WRITEAT 2 467 :nd
+raven.txt WRITEAT 8 246 :apping a
+raven.txt WRITEAT 11 4696 :engaged in 
+raven.txt WRITEAT 14 7264 :I remember it 
+raven.txt WRITEAT 2 7864 :er
+raven.txt WRITEAT 9 9370 :plore--* 
+raven.txt WRITEAT 11 4864 :ng*On the c
+raven.txt WRITEAT 4 3167 :inly
+raven.txt WRITEAT 10 498 :ought its 
+raven.txt WRITEAT 12 9944 :more!"***[Il
+raven.txt WRITEAT 10 2194 :ery explor
+raven.txt WRITEAT 16 5264 : he hath sent th
+raven.txt WRITEAT 12 3521 :t the Raven,
+raven.txt WRITEAT 16 7356 : upon the floor.
+raven.txt WRITEAT 12 2209 :et my heart 
+raven.txt WRITEAT 13 170 :rly napping, 
+raven.txt WRITEAT 7 9138 :ed, 'th
+raven.txt WRITEAT 9 1307 : was napp
+raven.txt WRITEAT 9 6387 : Night's 
+raven.txt WRITEAT 10 9752 :tempest an
+raven.txt WRITEAT 1 293 :"
+raven.txt WRITEAT 4 3474 :    
+raven.txt WRITEAT 14 830 :h purple curta
+raven.txt WRITEAT 5 9526 :ant A
+raven.txt WRITEAT 12 4767 : eyes now bu
+raven.txt WRITEAT 10 5007 :          
+raven.txt WRITEAT 4 8569 :  Pe
+raven.txt WRITEAT 12 5034 :   _She_ sha
+raven.txt WRITEAT 2 8376 :* 
+raven.txt WRITEAT 8 8964 :t whose 
+raven.txt WRITEAT 14 4368 :eeled a cushio
+raven.txt WRITEAT 2 2268 :  
+raven.txt WRITEAT 5 369 :     
+raven.txt WRITEAT 13 3898 :bird said, "N
+raven.txt WRITEAT 16 2373 :, when, with man
+raven.txt WRITEAT 8 9744 :nto the 
+raven.txt WRITEAT 14 9772 :t's Plutonian 
+raven.txt WRITEAT 10 8703 :ely more t
+raven.txt WRITEAT 10 1504 :          
+raven.txt WRITEAT 10 1438 : heard you
+raven.txt WRITEAT 10 8070 :ed to drea
+raven.txt WRITEAT 7 7705 :s here 
+raven.txt WRITEAT 11 9384 : there--_is
+raven.txt WRITEAT 15 5706 :ed--tell me tru
+raven.txt WRITEAT 5 5586 :empes
+raven.txt WRITEAT 14 5664 :d enchanted--*
+raven.txt WRITEAT 12 2436 :ly Raven of 
+raven.txt WRITEAT 10 1751 :oken,*And 
+raven.txt WRITEAT 6 8665 :"***[I
+raven.txt WRITEAT 8 9362 :ly, I im
+raven.txt WRITEAT 7 3739 :tered, 
+raven.txt WRITEAT 15 2125 :t my window lat
+raven.txt WRITEAT 14 9512 :ithin the dist
+raven.txt WRITEAT 15 1380 :ping, tapping a
+raven.txt WRITEAT 7 3853 :       
+raven.txt WRITEAT 2 4649 :  
+raven.txt WRITEAT 9 544 :ed the mo
+raven.txt WRITEAT 4 7970 :knes
+raven.txt WRITEAT 14 3760 : have flown be
+raven.txt WRITEAT 1 5352 :q
+raven.txt WRITEAT 3 9321 :"**
+raven.txt WRITEAT 15 4298 : the Raven stil
+raven.txt WRITEAT 11 5253 :hese angels
+raven.txt WRITEAT 1 7799 :m
+raven.txt WRITEAT 16 8419 : minute stopped 
+raven.txt WRITEAT 1 6057 :e
+raven.txt WRITEAT 2 4931 :Bu
+raven.txt WRITEAT 16 6850 :s that is dreami
+raven.txt WRITEAT 11 7441 :sought to b
+raven.txt WRITEAT 14 1604 : there wonderi
+raven.txt WRITEAT 6 5897 :"thing
+raven.txt WRITEAT 2 5205 :"W
+raven.txt WRITEAT 4 7866 : doo
+raven.txt WRITEAT 16 8054 : mortal ever dar
+raven.txt WRITEAT 15 1414 :That I scarce w
+raven.txt WRITEAT 1 6335 :u
+raven.txt WRITEAT 1 9045 : 
+raven.txt WRITEAT 15 5965 : bends above, u
+raven.txt WRITEAT 10 8027 :oubting, d
+raven.txt WRITEAT 1 1702 : 
+raven.txt WRITEAT 11 2744 :Then this e
+raven.txt WRITEAT 5 8832 :***[I
+raven.txt WRITEAT 14 8362 : days of yore.
+raven.txt WRITEAT 3 9885 :   
+raven.txt WRITEAT 12 3650 : further the
+raven.txt WRITEAT 1 5440 : 
+raven.txt WRITEAT 9 8728 :Other fri
+raven.txt WRITEAT 7 3460 :       
+raven.txt WRITEAT 5 644 :Lenor
+raven.txt WRITEAT 5 8378 :   No
+raven.txt WRITEAT 14 5291 :-respite and n
+raven.txt WRITEAT 4 5734 :--*I
+raven.txt WRITEAT 13 4001 :, "what it ut
+raven.txt WRITEAT 5 1158 :ing m
+raven.txt WRITEAT 13 6866 :ng,*And the l
+raven.txt WRITEAT 15 8745 :e flown before-
+raven.txt WRITEAT 14 6773 :las just above
+raven.txt WRITEAT 15 8474 :Perched upon a 
+raven.txt WRITEAT 4 4973 :mpli
+raven.txt WRITEAT 9 6824 :ll the se
+raven.txt WRITEAT 6 2094 : I, "s
+raven.txt WRITEAT 11 6651 :Quoth the R
+raven.txt WRITEAT 4 5944 :!*By
+raven.txt WRITEAT 16 9103 :llustration]*** 
+raven.txt WRITEAT 6 9413 :lead?-
+raven.txt WRITEAT 11 1527 :kness there
+raven.txt WRITEAT 11 1320 : and so gen
+raven.txt WRITEAT 12 1189 :rew stronger
+raven.txt WRITEAT 13 6028 :th sorrow lad
+raven.txt WRITEAT 2 7589 :]*
+raven.txt WRITEAT 9 6673 :rmore."**
+raven.txt WRITEAT 8 7577 :Illustra
+raven.txt WRITEAT 15 6992 :n the floor*   
+raven.txt WRITEAT 6 6081 :ll cla
+raven.txt WRITEAT 8 7642 :els name
+raven.txt WRITEAT 6 3835 :wn bef
+raven.txt WRITEAT 16 5678 :On this home by 
+raven.txt WRITEAT 8 6506 :n!--quit
+raven.txt WRITEAT 1 4523 :m
+raven.txt WRITEAT 2 3671 :re
+raven.txt WRITEAT 10 2632 :las just a
+raven.txt WRITEAT 15 5980 :s--by that God 
+raven.txt WRITEAT 6 8865 :on the
+raven.txt WRITEAT 6 2613 : upon 
+raven.txt WRITEAT 2 2361 : t
+raven.txt WRITEAT 1 8884 :n
+raven.txt WRITEAT 2 1412 :,*
+raven.txt WRITEAT 6 8400 :ance m
+raven.txt WRITEAT 7 8124 : said I
+raven.txt WRITEAT 12 8532 :*           
+raven.txt WRITEAT 14 7479 :cease of sorro
+raven.txt WRITEAT 16 869 : with fantastic 
+raven.txt WRITEAT 15 8931 :ancy."***[Illus
+raven.txt WRITEAT 11 6802 :r;*And his 
+raven.txt WRITEAT 5 9701 :."***
+raven.txt WRITEAT 15 1987 :g, all my soul 
+raven.txt WRITEAT 16 5353 :uaff this kind n
+raven.txt WRITEAT 6 2077 :e.*"Su
+raven.txt WRITEAT 7 3722 :ely mor
+raven.txt WRITEAT 6 7835 :treati
+raven.txt WRITEAT 16 2519 : stopped or stay
+raven.txt WRITEAT 7 8525 : door--
+raven.txt WRITEAT 13 4071 :y master whom
+raven.txt WRITEAT 8 6370 :e tempes
+raven.txt WRITEAT 15 8713 :han muttered, '
+raven.txt WRITEAT 14 2883 :horn and shave
+raven.txt WRITEAT 1 4707 :g
+raven.txt WRITEAT 7 4385 : seat i
+raven.txt WRITEAT 3 4342 :nto
+raven.txt WRITEAT 4 5747 :_is_
+raven.txt WRITEAT 7 5738 :s there
+raven.txt WRITEAT 9 7566 :enore."**
+raven.txt WRITEAT 6 2785 :cy int
+raven.txt WRITEAT 10 6627 :          
+raven.txt WRITEAT 5 9572 :n who
+raven.txt WRITEAT 2 5475 :re
+raven.txt WRITEAT 9 3429 :s chamber
+raven.txt WRITEAT 6 7169 :er man
+raven.txt WRITEAT 7 9853 :hat lie
+raven.txt WRITEAT 15 8612 :llustration]***
+raven.txt WRITEAT 11 7018 :           
+raven.txt WRITEAT 14 4887 :vet lining tha
+raven.txt WRITEAT 16 528 :.*Eagerly I wish
+raven.txt WRITEAT 10 3236 :ing--littl
+raven.txt WRITEAT 7 4515 :t this 
+raven.txt WRITEAT 14 3746 :"Other friends
+raven.txt WRITEAT 2 7184 :t 
+raven.txt WRITEAT 4 8837 :llus
+raven.txt WRITEAT 8 142 :en lore,
+raven.txt WRITEAT 8 5369 :epenthe,
+raven.txt WRITEAT 13 9624 :   "'Be that 
+raven.txt WRITEAT 12 2448 :the saintly 
+raven.txt WRITEAT 3 1618 :ng,
+raven.txt WRITEAT 10 1778 :re spoken 
+raven.txt WRITEAT 12 6582 :hy form from
+raven.txt WRITEAT 15 2904 :," I said, "art
+raven.txt WRITEAT 13 9888 :             
+raven.txt WRITEAT 11 1253 :m, truly yo
+raven.txt WRITEAT 9 9312 : haunted.
+raven.txt WRITEAT 14 4150 :ngs one burden
+raven.txt WRITEAT 13 6926 :n the floor;*
+raven.txt WRITEAT 7 5207 :retch,"
+raven.txt WRITEAT 3 7620 :nt 
+raven.txt WRITEAT 15 7421 :rrow;--vainly I
+raven.txt WRITEAT 9 2561 :ord or la
+raven.txt WRITEAT 2 2791 :o 
+raven.txt WRITEAT 7 3994 : said I
+raven.txt WRITEAT 11 9706 :[Illustrati
+raven.txt WRITEAT 15 7505 :r the lost Leno
+raven.txt WRITEAT 6 9480 :his so
+raven.txt WRITEAT 4 9061 :   _
+raven.txt WRITEAT 1 336 :*
+raven.txt WRITEAT 11 5406 :"*         
+raven.txt WRITEAT 7 714 :*      
+raven.txt WRITEAT 3 6541 :ke 
+raven.txt WRITEAT 2 7608 :re
+raven.txt WRITEAT 14 5128 :nseen censer*S
+raven.txt WRITEAT 16 4829 :ining, with my h
+raven.txt WRITEAT 9 8856 :"Then, up
+raven.txt WRITEAT 10 6166 :en whom th
+raven.txt WRITEAT 16 915 :that now, to sti
+raven.txt WRITEAT 12 5751 : there balm 
+raven.txt WRITEAT 9 591 :rom my bo
+raven.txt WRITEAT 11 350 :           
+raven.txt WRITEAT 13 6114 :e angels name
+raven.txt WRITEAT 11 3615 :at one word
+raven.txt WRITEAT 13 337 :             
+raven.txt WRITEAT 6 5721 :ly, I 
+raven.txt WRITEAT 12 4779 :rned into my
+raven.txt WRITEAT 12 4817 :re I sat div
+raven.txt WRITEAT 10 5280 :ee*Respite
+raven.txt WRITEAT 15 5460 :Raven, "Nevermo
+raven.txt WRITEAT 12 2106 :that is some
+raven.txt WRITEAT 1 3959 :r
+raven.txt WRITEAT 12 1267 :forgiveness 
+raven.txt WRITEAT 1 6662 :a
+raven.txt WRITEAT 2 8991 :g 
+raven.txt WRITEAT 6 2119 :hing a
+raven.txt WRITEAT 8 3663 : he utte
+raven.txt WRITEAT 2 1294 :th
+raven.txt WRITEAT 8 1788 :was the 
+raven.txt WRITEAT 13 4933 :t whose velve
+raven.txt WRITEAT 9 2930 :aven,*Gha
+raven.txt WRITEAT 6 704 :e Leno
+raven.txt WRITEAT 3 1250 :ada
+raven.txt WRITEAT 9 3533 : sitting 
+raven.txt WRITEAT 2 4451 :nk
+raven.txt WRITEAT 14 2347 :n here I flung
+raven.txt WRITEAT 4 1668 :ver 
+raven.txt WRITEAT 8 8737 :ends hav
+raven.txt WRITEAT 12 3871 :            
+raven.txt WRITEAT 15 7974 :s there, and no
+raven.txt WRITEAT 14 1561 :ep into that d
+raven.txt WRITEAT 8 7145 :, weak a
+raven.txt WRITEAT 6 2244 :his my
+raven.txt WRITEAT 12 7467 :my books sur
+raven.txt WRITEAT 14 9298 :home by Horror
+raven.txt WRITEAT 15 5882 :phet!" said I, 
+raven.txt WRITEAT 14 6978 :ies floating o
+raven.txt WRITEAT 1 9664 :i
+raven.txt WRITEAT 11 6396 :Plutonian s
+raven.txt WRITEAT 9 1127 :         
+raven.txt WRITEAT 15 8308 :llustration]***
+raven.txt WRITEAT 2 9742 : i
+raven.txt WRITEAT 3 254 :t m
+raven.txt WRITEAT 1 1971 :e
+raven.txt WRITEAT 10 6755 :pallid bus
+raven.txt WRITEAT 1 868 :e
+raven.txt WRITEAT 16 9822 : my soul from ou
+raven.txt WRITEAT 9 4485 :Fancy unt
+raven.txt WRITEAT 9 7826 :isiter en
+raven.txt WRITEAT 6 3860 :      
+raven.txt WRITEAT 13 7739 :ion]***    "'
+raven.txt WRITEAT 5 5591 :t tos
+raven.txt WRITEAT 1 629 :w
+raven.txt WRITEAT 7 8841 :tration
+raven.txt WRITEAT 7 7408 :wished 
+raven.txt WRITEAT 2 3039 :he
+raven.txt WRITEAT 11 2585 :ve my chamb
+raven.txt WRITEAT 10 3972 :y spoken,*
+raven.txt WRITEAT 13 9467 :**    "Tell t
+raven.txt WRITEAT 2 469 : e
+raven.txt WRITEAT 9 859 :-filled m
+raven.txt WRITEAT 4 6956 :out 
+raven.txt WRITEAT 7 4186 :s of hi
+raven.txt WRITEAT 10 8998 :the lampli
+raven.txt WRITEAT 11 2729 :nothing mor
+raven.txt WRITEAT 8 2037 :rd a tap
+raven.txt WRITEAT 12 4585 : and ominous
+raven.txt WRITEAT 8 111 :t and cu
+raven.txt WRITEAT 16 9430 :ell me, I implor
+raven.txt WRITEAT 6 5547 :l!--*W
+raven.txt WRITEAT 12 4684 :*This I sat 
+raven.txt WRITEAT 14 5948 : that Heaven t
+raven.txt WRITEAT 12 6257 : "Nevermore.
+raven.txt WRITEAT 1 2571 :y
+raven.txt WRITEAT 13 7068 :more!*****[Il
+raven.txt WRITEAT 16 4084 : unmerciful Disa
+raven.txt WRITEAT 2 9205 :Re
+raven.txt WRITEAT 14 6690 :Raven, never f
+raven.txt WRITEAT 9 3547 :y on the 
+raven.txt WRITEAT 7 2945 :rim and
+raven.txt WRITEAT 2 5846 : Q
+raven.txt WRITEAT 1 6955 : 
+raven.txt WRITEAT 12 2424 :pped a state
+raven.txt WRITEAT 12 6838 : of a demon'
+raven.txt WRITEAT 12 5848 :uoth the Rav
+raven.txt WRITEAT 12 1931 :ely this and
+raven.txt WRITEAT 1 4247 : 
+raven.txt WRITEAT 7 5170 :falls t
+raven.txt WRITEAT 9 4804 :;*This an
+raven.txt WRITEAT 10 1331 :tly you ca
+raven.txt WRITEAT 13 2176 : is, and this
+raven.txt WRITEAT 1 5108 :,
+raven.txt WRITEAT 7 5386 :et this
+raven.txt WRITEAT 10 3941 :illness br
+raven.txt WRITEAT 13 5393 : lost Lenore!
+raven.txt WRITEAT 4 5801 :e!"*
+raven.txt WRITEAT 10 2755 :bony bird 
+raven.txt WRITEAT 12 3438 : door,*     
+raven.txt WRITEAT 10 7752 :T is some 
+raven.txt WRITEAT 1 6131 :o
+raven.txt WRITEAT 3 4845 :ead
+raven.txt WRITEAT 13 2296 :             
+raven.txt WRITEAT 2 156 : I
+raven.txt WRITEAT 10 4431 :, upon the
+raven.txt WRITEAT 16 4404 :ird and bust and
+raven.txt WRITEAT 8 1855 :mured ba
+raven.txt WRITEAT 6 8171 : latti
+raven.txt WRITEAT 5 8246 :"***[
+raven.txt WRITEAT 7 2897 :n, thou
+raven.txt WRITEAT 14 183 :suddenly there
+raven.txt WRITEAT 11 3559 :cid bust, s
+raven.txt WRITEAT 14 449 : bleak Decembe
+raven.txt WRITEAT 13 1514 :          Dar
+raven.txt WRITEAT 3 2939 :stl
+raven.txt WRITEAT 1 4739 :s
+raven.txt WRITEAT 8 4999 :        
+raven.txt WRITEAT 11 9187 :ath sent th
+raven.txt WRITEAT 8 6442 :en of th
+raven.txt WRITEAT 3 301 :ere
+raven.txt WRITEAT 12 5652 :s desert lan
+raven.txt WRITEAT 14 3821 :hopes have flo
+raven.txt WRITEAT 11 4331 : sad soul i
+raven.txt WRITEAT 10 3203 :ly,*Though
+raven.txt WRITEAT 15 9452 :[Illustration]*
+raven.txt WRITEAT 15 2153 :see, then, what
+raven.txt WRITEAT 9 3057 :an shore!
+raven.txt WRITEAT 12 7885 :tion]***    
+raven.txt WRITEAT 8 9347 :.. "Tell
+raven.txt WRITEAT 1 2118 :t
+raven.txt WRITEAT 12 8647 :the Nightly 
+raven.txt WRITEAT 14 5807 :              
+raven.txt WRITEAT 2 8194 :e,
+raven.txt WRITEAT 11 6219 :           
+raven.txt WRITEAT 16 51 : dreary, while I
+raven.txt WRITEAT 4 6922 :ow o
+raven.txt WRITEAT 14 9601 :."***[Illustra
+raven.txt WRITEAT 5 2189 : myst
+raven.txt WRITEAT 5 4639 :     
+raven.txt WRITEAT 8 1761 :the only
+raven.txt WRITEAT 13 6493 :iness unbroke
+raven.txt WRITEAT 9 4476 : linking*
+raven.txt WRITEAT 9 5837 :         
+raven.txt WRITEAT 8 392 :d nothin
+raven.txt WRITEAT 6 4881 :'s vel
+raven.txt WRITEAT 9 8603 :re."***[I
+raven.txt WRITEAT 4 7897 :"Her
+raven.txt WRITEAT 16 991 :siter entreating
+raven.txt WRITEAT 7 6428 :plume a
+raven.txt WRITEAT 14 9253 :of Lenore!'"**
+raven.txt WRITEAT 10 3450 :          
+raven.txt WRITEAT 13 400 :g more."**Ah,
+raven.txt WRITEAT 16 4848 : at ease reclini
+raven.txt WRITEAT 16 7129 :while I pondered
+raven.txt WRITEAT 15 8885 :g, I betook mys
+raven.txt WRITEAT 3 3308 :uma
+raven.txt WRITEAT 8 1769 : word th
+raven.txt WRITEAT 1 600 :o
+raven.txt WRITEAT 6 8493 : of Pa
+raven.txt WRITEAT 16 6738 :s sitting*On the
+raven.txt WRITEAT 16 8251 :Illustration]***
+raven.txt WRITEAT 4 3091 :    
+raven.txt WRITEAT 7 6407 :hore!*L
+raven.txt WRITEAT 2 1146 :is
+raven.txt WRITEAT 14 7243 :*    "Ah, dist
+raven.txt WRITEAT 3 3911 :eve
+raven.txt WRITEAT 6 9860 :s floa
+raven.txt WRITEAT 2 5455 : t
+raven.txt WRITEAT 5 1903 :     
+raven.txt WRITEAT 12 3118 :e Raven, "Ne
+raven.txt WRITEAT 4 710 :re--
+raven.txt WRITEAT 15 2281 :               
+raven.txt WRITEAT 14 9637 :word our sign 
+raven.txt WRITEAT 3 4168 :e--
+raven.txt WRITEAT 4 1840 :and 
+raven.txt WRITEAT 12 9681 :shrieked, up
+raven.txt WRITEAT 6 3230 :e mean
+raven.txt WRITEAT 2 4453 :in
+raven.txt WRITEAT 4 6366 :o th
+raven.txt WRITEAT 11 7305 :    And eac
+raven.txt WRITEAT 13 4271 :f 'Never--nev
+raven.txt WRITEAT 3 9870 : on
+raven.txt WRITEAT 7 8512 :ve my c
+raven.txt WRITEAT 2 9226 :ne
+raven.txt WRITEAT 10 4575 :tly, gaunt
+raven.txt WRITEAT 13 9721 :**    "'Get t
+raven.txt WRITEAT 15 8196 : then, what the
+raven.txt WRITEAT 10 7712 :for evermo
+raven.txt WRITEAT 3 9698 :ing
+raven.txt WRITEAT 14 9395 :_ there balm i
+raven.txt WRITEAT 10 8000 :"***[Illus
+raven.txt WRITEAT 12 5183 : on the tuft
+raven.txt WRITEAT 16 5214 : I cried, "thy G
+raven.txt WRITEAT 2 5350 :h 
+raven.txt WRITEAT 8 15 :DGAR ALL
+raven.txt WRITEAT 6 7660 :      
+raven.txt WRITEAT 8 9807 :ion]*** 
+raven.txt WRITEAT 9 119 :rious vol
+raven.txt WRITEAT 4 6062 :tant
+raven.txt WRITEAT 10 5340 :!*Quaff, o
+raven.txt WRITEAT 12 5789 :me, I implor
+raven.txt WRITEAT 5 5029 :     
+raven.txt WRITEAT 15 6879 :amplight o'er h
+raven.txt WRITEAT 13 4904 :he lamplight 
+raven.txt WRITEAT 4 8285 :lung
+raven.txt WRITEAT 6 9548 :ll cla
+raven.txt WRITEAT 12 3982 :"Doubtless,"
+raven.txt WRITEAT 15 3066 :"*             
+raven.txt WRITEAT 9 3363 :his chamb
+raven.txt WRITEAT 4 7870 :r."*
+raven.txt WRITEAT 9 227 :e gently 
+raven.txt WRITEAT 11 4420 : door;*Then
+raven.txt WRITEAT 15 1972 : chamber turnin
+raven.txt WRITEAT 11 374 :     Only t
+raven.txt WRITEAT 7 8588 : and no
+raven.txt WRITEAT 14 128 :ume of forgott
+raven.txt WRITEAT 13 1360 :faintly you c
+raven.txt WRITEAT 1 3117 :h
+raven.txt WRITEAT 10 5608 :e ashore,*
+raven.txt WRITEAT 1 7153 :n
+raven.txt WRITEAT 14 8289 : the shutter."
+raven.txt WRITEAT 3 4901 :t t
+raven.txt WRITEAT 10 4061 :ome unhapp
+raven.txt WRITEAT 13 7278 :was in the bl
+raven.txt WRITEAT 3 1908 :   
+raven.txt WRITEAT 5 5694 :Horro
+raven.txt WRITEAT 2 8659 :sh
+raven.txt WRITEAT 15 6351 :t thee back int
+raven.txt WRITEAT 16 1019 : my chamber door
+raven.txt WRITEAT 12 8152 :ething at my
+raven.txt WRITEAT 3 8267 :   
+raven.txt WRITEAT 4 7585 :tion
+raven.txt WRITEAT 13 1911 :             
+raven.txt WRITEAT 2 8047 :ea
+raven.txt WRITEAT 6 2542 :But, w
+raven.txt WRITEAT 8 6574 :d take t
+raven.txt WRITEAT 16 2961 :Raven wandering 
+raven.txt WRITEAT 7 294 : I mutt
+raven.txt WRITEAT 11 2919 : sure no cr
+raven.txt WRITEAT 14 1395 :t my chamber d
+raven.txt WRITEAT 2 4127 :ow
+raven.txt WRITEAT 7 1243 :, "or M
+raven.txt WRITEAT 13 2619 :a bust of Pal
+raven.txt WRITEAT 9 8323 :    ... "
+raven.txt WRITEAT 9 4322 :ng all my
+raven.txt WRITEAT 2 2469 :or
+raven.txt WRITEAT 6 4051 :ght fr
+raven.txt WRITEAT 3 3556 :pla
+raven.txt WRITEAT 9 9326 :Illustrat
+raven.txt WRITEAT 13 5869 :rmore."**"Pro
+raven.txt WRITEAT 3 1653 :ams
+raven.txt WRITEAT 16 482 :e dying ember wr
+raven.txt WRITEAT 11 3391 :east upon t
+raven.txt WRITEAT 14 8789 : leave me, as 
+raven.txt WRITEAT 14 9233 :e from thy mem
+raven.txt WRITEAT 6 6066 : Aiden
+raven.txt WRITEAT 12 9069 : shall press
+raven.txt WRITEAT 12 1218 : no longer,*
+raven.txt WRITEAT 5 8303 :***[I
+raven.txt WRITEAT 6 2707 :Perche
+raven.txt WRITEAT 4 8661 :ore.
+raven.txt WRITEAT 14 2389 :y a flirt and 
+raven.txt WRITEAT 3 9956 :lus
+raven.txt WRITEAT 6 6621 :      
+raven.txt WRITEAT 13 1591 : long I stood
+raven.txt WRITEAT 10 4207 :lancholy b
+raven.txt WRITEAT 8 2053 :mewhat l
+raven.txt WRITEAT 12 692 :e angels nam
+raven.txt WRITEAT 6 7666 :      
+raven.txt WRITEAT 3 2230 :a m
+raven.txt WRITEAT 7 8226 :is myst
+raven.txt WRITEAT 4 511 :st u
+raven.txt WRITEAT 16 7372 :"***[Illustratio
+raven.txt WRITEAT 13 788 :d the silken 
+raven.txt WRITEAT 9 571 :d sought 
+raven.txt WRITEAT 5 3542 :lonel
+raven.txt WRITEAT 14 9486 :ul with sorrow
+raven.txt WRITEAT 10 1136 :  This it 
+raven.txt WRITEAT 1 5204 :*
+raven.txt WRITEAT 15 1279 :I implore;*But 
+raven.txt WRITEAT 16 3478 :         With su
+raven.txt WRITEAT 6 8103 :ion]**
+raven.txt WRITEAT 3 9176 :ang
+raven.txt WRITEAT 6 7299 :mber,*
+raven.txt WRITEAT 13 7549 :ow for the lo
+raven.txt WRITEAT 5 7330 :ng em
+raven.txt WRITEAT 16 1621 : fearing,*Doubti
+raven.txt WRITEAT 15 8554 :               
+raven.txt WRITEAT 9 6450 :at lie th
+raven.txt WRITEAT 4 5553 :heth
+raven.txt WRITEAT 10 8037 :reaming dr
+raven.txt WRITEAT 7 8849 :***    
+raven.txt WRITEAT 3 1357 :so 
+raven.txt WRITEAT 9 7623 :maiden wh
+raven.txt WRITEAT 9 7175 :y a quain
+raven.txt WRITEAT 2 9554 :sp
+raven.txt WRITEAT 12 7493 :w--sorrow fo
+raven.txt WRITEAT 12 4235 :            
+raven.txt WRITEAT 13 8440 :ayed he."***[
+raven.txt WRITEAT 13 8499 :llas just abo
+raven.txt WRITEAT 13 5634 : undaunted, o
+raven.txt WRITEAT 1 938 :b
+raven.txt WRITEAT 6 2765 :beguil
+raven.txt WRITEAT 15 3268 :we cannot help 
+raven.txt WRITEAT 1 6080 :a
+raven.txt WRITEAT 11 9534 :nn,*    It 
+raven.txt WRITEAT 6 2857 :re,*"T
+raven.txt WRITEAT 11 1657 :no mortal e
+raven.txt WRITEAT 13 5477 :."**"Prophet!
+raven.txt WRITEAT 10 3283 :agreeing t
+raven.txt WRITEAT 5 6606 :!"*  
+raven.txt WRITEAT 3 2344 :Ope
+raven.txt WRITEAT 4 8900 :elf 
+raven.txt WRITEAT 5 2204 :e--*L
+raven.txt WRITEAT 9 1495 :         
+raven.txt WRITEAT 16 8332 :A stately Raven 
+raven.txt WRITEAT 1 8080 :m
+raven.txt WRITEAT 6 9873 : the f
+raven.txt WRITEAT 16 5511 :vil!--prophet st
+raven.txt WRITEAT 8 257 :y chambe
+raven.txt WRITEAT 2 1109 :  
+raven.txt WRITEAT 16 601 :ks surcease of s
+raven.txt WRITEAT 13 7225 :**[Illustrati
+raven.txt WRITEAT 1 2723 :,
+raven.txt WRITEAT 15 3921 :**Startled at t
+raven.txt WRITEAT 7 5417 :       
+raven.txt WRITEAT 10 5317 : thy memor
+raven.txt WRITEAT 10 9762 :d the Nigh
+raven.txt WRITEAT 12 5906 : evil--proph
+raven.txt WRITEAT 11 7214 :ten lore."*
+raven.txt WRITEAT 16 9282 :***    "On this 
+raven.txt WRITEAT 5 6973 :hat l
+raven.txt WRITEAT 8 8595 :thing mo
+raven.txt WRITEAT 7 564 :ly I ha
+raven.txt WRITEAT 16 3178 :o hear discourse
+raven.txt WRITEAT 5 9379 :   Is
+raven.txt WRITEAT 16 3006 :l me what thy lo
+raven.txt WRITEAT 2 3808 :ve
+raven.txt WRITEAT 11 7007 :           
+raven.txt WRITEAT 6 2100 :urely 
+raven.txt WRITEAT 16 8904 :to linking*    F
+raven.txt WRITEAT 8 1201 :; hesita
+raven.txt WRITEAT 16 9556 : a sainted maide
+raven.txt WRITEAT 16 1111 :                
+raven.txt WRITEAT 1 1699 :t
+raven.txt WRITEAT 3 5903 : of
+raven.txt WRITEAT 6 9446 :e!"***
+raven.txt WRITEAT 3 5125 :n u
+raven.txt WRITEAT 3 6464 :l h
+raven.txt WRITEAT 6 6296 :f part
+raven.txt WRITEAT 9 5237 : lent the
+raven.txt WRITEAT 11 3322 :r yet was b
+raven.txt WRITEAT 10 6663 :ven, "Neve
+raven.txt WRITEAT 15 3571 :oke only*That o
+raven.txt WRITEAT 2 5650 :hi
+raven.txt WRITEAT 8 7651 :Lenore--
+raven.txt WRITEAT 10 4989 : o'er*    
+raven.txt WRITEAT 2 9599 :re
+raven.txt WRITEAT 13 9119 :   "'Wretch,'
+raven.txt WRITEAT 10 4225 :re*       
+raven.txt WRITEAT 6 3385 :d or b
+raven.txt WRITEAT 12 6336 :pstarting--*
+raven.txt WRITEAT 12 4115 :ast and foll
+raven.txt WRITEAT 12 8684 :**    "Till 
+raven.txt WRITEAT 15 3883 :      Then the 
+raven.txt WRITEAT 9 2460 :days of y
+raven.txt WRITEAT 2 4261 :  
+raven.txt WRITEAT 2 2713 :d,
+raven.txt WRITEAT 12 1163 :ore."**Prese
+raven.txt WRITEAT 15 4171 :*Till the dirge
+raven.txt WRITEAT 2 1538 :, 
+raven.txt WRITEAT 6 4129 :ed fas
+raven.txt WRITEAT 6 8383 :t the 
+raven.txt WRITEAT 7 3514 :e."**Bu
+raven.txt WRITEAT 1 2560 :l
+raven.txt WRITEAT 15 3095 :               
+raven.txt WRITEAT 15 3774 :fore--*On the m
+raven.txt WRITEAT 12 680 :iden whom th
+raven.txt WRITEAT 9 5860 :en, "Neve
+raven.txt WRITEAT 10 1148 :, and noth
+raven.txt WRITEAT 13 2662 :--*          
+raven.txt WRITEAT 10 471 :ach separa
+raven.txt WRITEAT 15 3707 :--*Till I scarc
+raven.txt WRITEAT 13 7672 :             
+raven.txt WRITEAT 7 3467 :       
+raven.txt WRITEAT 12 2548 :ith mien of 
+raven.txt WRITEAT 4 4708 :uess
+raven.txt WRITEAT 12 3586 :ne word, as 
+raven.txt WRITEAT 11 9419 :-tell me--t
+raven.txt WRITEAT 14 2485 :st obeisance m
+raven.txt WRITEAT 1 630 : 
+raven.txt WRITEAT 2 2342 :**
+raven.txt WRITEAT 11 6720 :s sitting, 
+raven.txt WRITEAT 7 6050 :thin th
+raven.txt WRITEAT 15 7081 :lustration]*** 
+raven.txt WRITEAT 10 3298 :o living h
+raven.txt WRITEAT 9 1072 :e at my c
+raven.txt WRITEAT 4 6637 :    
+raven.txt WRITEAT 7 1373 :ame tap
+raven.txt WRITEAT 11 7388 :n]***    "E
+raven.txt WRITEAT 3 210 :ng,
+raven.txt WRITEAT 1 2309 :'
+raven.txt WRITEAT 10 7154 :d weary,* 
+raven.txt WRITEAT 15 8769 :the morrow _he_
+raven.txt WRITEAT 13 2140 :tice;*Let me 
+raven.txt WRITEAT 5 825 :f eac
+raven.txt WRITEAT 16 6939 :And my soul from
+raven.txt WRITEAT 7 2535 :ed he;*
+raven.txt WRITEAT 3 3426 : hi
+raven.txt WRITEAT 2 3789 :or
+raven.txt WRITEAT 5 7778 :ng en
+raven.txt WRITEAT 9 1209 :ting then
+raven.txt WRITEAT 15 2692 :               
+raven.txt WRITEAT 14 5142 :wung by seraph
+raven.txt WRITEAT 15 4135 :ter till his so
+raven.txt WRITEAT 13 6269 :"**"Be that w
+raven.txt WRITEAT 7 6152 :d radia
+raven.txt WRITEAT 7 8677 :ation]*
+raven.txt WRITEAT 1 2942 :y
+raven.txt WRITEAT 4 4656 :nt i
+raven.txt WRITEAT 16 8627 :    "Wandering f
+raven.txt WRITEAT 12 5305 :epenthe from
+raven.txt WRITEAT 11 809 :rtain rustl
+raven.txt WRITEAT 15 7901 :e I opened wide
+raven.txt WRITEAT 15 8137 :ely that is som
+raven.txt WRITEAT 16 5618 :Desolate yet all
+raven.txt WRITEAT 16 1341 :me rapping,*And 
+raven.txt WRITEAT 12 5821 :            
+raven.txt WRITEAT 1 4522 :o
+raven.txt WRITEAT 8 5539 : or devi
+raven.txt WRITEAT 6 4875 :ushion
+raven.txt WRITEAT 11 3311 :n being*Eve
+raven.txt WRITEAT 14 5441 :         Quoth
+raven.txt WRITEAT 5 9981 :on]**
+raven.txt WRITEAT 6 6043 : if, w
+raven.txt WRITEAT 14 6414 :eave no black 
+raven.txt WRITEAT 16 320 :y chamber door--
+raven.txt WRITEAT 16 4345 : smiling,*Straig
+raven.txt WRITEAT 13 7765 :iter entreati
+raven.txt WRITEAT 1 7436 : 
+raven.txt WRITEAT 3 5962 :hat
+raven.txt WRITEAT 15 5918 :et still, if bi
+raven.txt WRITEAT 12 7685 :            
+raven.txt WRITEAT 14 8081 : before."***[I
+raven.txt WRITEAT 15 8211 :reat is, and th
+raven.txt WRITEAT 7 5230 :od hath
+raven.txt WRITEAT 16 1575 :arkness peering,
+raven.txt WRITEAT 7 1924 :    Mer
+raven.txt WRITEAT 7 5433 :       
+raven.txt WRITEAT 7 4721 :no syll
+raven.txt WRITEAT 4 4606 :yore
+raven.txt WRITEAT 14 5156 :im whose foot-
+raven.txt WRITEAT 10 2509 :t a minute
+raven.txt WRITEAT 7 931 :ll the 
+raven.txt WRITEAT 6 721 :      
+raven.txt WRITEAT 16 3673 :d--not a feather
+raven.txt WRITEAT 10 4197 :pe that me
+raven.txt WRITEAT 12 5527 :ill, if bird
+raven.txt WRITEAT 1 7238 :o
+raven.txt WRITEAT 7 2013 :urning,
+raven.txt WRITEAT 10 669 : radiant m
+raven.txt WRITEAT 13 3144 :h I marvelled
+raven.txt WRITEAT 5 1477 :r;--*
+raven.txt WRITEAT 12 3344 : seeing bird
+raven.txt WRITEAT 10 9046 :          
+raven.txt WRITEAT 8 8010 :tration]
+raven.txt WRITEAT 10 4441 : velvet si
+raven.txt WRITEAT 7 4508 :ing wha
+raven.txt WRITEAT 10 8453 :Illustrati
+raven.txt WRITEAT 12 3022 :rdly name is
+raven.txt WRITEAT 4 4455 :g, I
+raven.txt WRITEAT 13 8871 : velvet sinki
+raven.txt WRITEAT 8 3418 :st above
+raven.txt WRITEAT 1 3213 : 
+raven.txt WRITEAT 15 278 :s some visiter,
+raven.txt WRITEAT 7 2274 :       
+raven.txt WRITEAT 2 7452 :or
+raven.txt WRITEAT 15 6241 :Quoth the Raven
+raven.txt WRITEAT 10 844 :in*Thrille
+raven.txt WRITEAT 9 9615 :tion]*** 
+raven.txt WRITEAT 11 7989 :thing more.
+raven.txt WRITEAT 5 2480 :e lea
+raven.txt WRITEAT 1 9179 :e
+raven.txt WRITEAT 10 1085 :er door;--
+raven.txt WRITEAT 5 6833 :eming
+raven.txt WRITEAT 14 8348 :of the saintly
+raven.txt WRITEAT 4 5833 :    
+raven.txt WRITEAT 8 3377 :or--*Bir
+raven.txt WRITEAT 8 3951 :oken by 
+raven.txt WRITEAT 12 4392 :n front of b
+raven.txt WRITEAT 6 8519 :hamber
+raven.txt WRITEAT 12 3603 :s soul in th
+raven.txt WRITEAT 6 2332 :ing mo
+raven.txt WRITEAT 7 3261 :e;*For 
+raven.txt WRITEAT 13 9081 :, ah, nevermo
+raven.txt WRITEAT 10 236 :rapping, r
+raven.txt WRITEAT 5 3866 :     
+raven.txt WRITEAT 1 7659 :*
+raven.txt WRITEAT 12 6556 :m out my hea
+raven.txt WRITEAT 11 9034 :           
+raven.txt WRITEAT 4 9849 :ow t
+raven.txt WRITEAT 9 87 :weary,*Ov
+raven.txt WRITEAT 2 5745 :--
+raven.txt WRITEAT 10 6142 : a rare an
+raven.txt WRITEAT 8 3041 : Night's
+raven.txt WRITEAT 1 2570 :d
+raven.txt WRITEAT 4 1081 :hamb
+raven.txt WRITEAT 4 2863 :houg
+raven.txt WRITEAT 3 1650 :dre
+raven.txt WRITEAT 5 1433 :ure I
+raven.txt WRITEAT 7 8696 :I scarc
+raven.txt WRITEAT 3 588 :w*F
+raven.txt WRITEAT 6 5177 :inkled
+raven.txt WRITEAT 1 6483 :e
+raven.txt WRITEAT 7 6159 :nt maid
+raven.txt WRITEAT 1 7096 : 
